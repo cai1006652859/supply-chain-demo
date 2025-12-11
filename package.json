@@ -20,6 +20,7 @@
   "homepage": "https://github.com/cai1006652859/supply-chain-demo#readme",
   "dependencies": {
     "express": "^5.2.1",
+    "jquery-confirm": "^3.3.4",
     "jws": "3.2.2"
   }
 }
