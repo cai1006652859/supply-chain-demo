@@ -8,7 +8,7 @@
   "dependencies": {
     "debug": "2.6.8",
     "express": "4.16.0",
-    "handlebars": "4.1.2",
+    "handlebars": "4.7.8",
     "hoek": "4.2.0",
     "jws": "^3.2.2",
     "lodash": "4.17.11",
